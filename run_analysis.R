@@ -27,6 +27,7 @@ merge_y = rbind(y_train, y_test)
 # tidy data
 tidy_data <- cbind(merge_x, merge_y)
 features <- read.table("features.txt")
+features$V2   # list of variables
 
 # write table
 write.table(tidy_data, file = "./tidy_data.txt")
