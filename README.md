@@ -2,7 +2,6 @@ Getting-and-Cleaning-Data-Project
 =================================
 List of variables are as below:
 
-> features$V2
   [1] tBodyAcc-mean()-X                    tBodyAcc-mean()-Y                   
   [3] tBodyAcc-mean()-Z                    tBodyAcc-std()-X                    
   [5] tBodyAcc-std()-Y                     tBodyAcc-std()-Z                    
